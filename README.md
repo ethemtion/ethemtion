@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  
+<img src="https://media1.tenor.com/m/1cJ9sjTSRXAAAAAC/screaming-memory-rick.gif"  width="75%"   fetchpriority="high">
+</div>
